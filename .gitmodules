@@ -1,0 +1,3 @@
+[submodule "form2js"]
+	path = form2js
+	url = git://github.com/maxatwork/form2js.git
