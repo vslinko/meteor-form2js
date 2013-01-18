@@ -5,5 +5,6 @@ Package.describe({
 Package.on_use(function (api) {
     api.add_files([
         "form2js/src/form2js.js",
+        "form2js/src/jquery.toObject.js",
     ], "client");
 });
